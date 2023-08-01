@@ -4,7 +4,7 @@ export const router = createBrowserRouter ([
             path : "/",
             element : (
                   <div>
-                        Layout Website  <Outlet/>
+                        Layout Website <Outlet/>
                   </div>
             ),
             children :[
